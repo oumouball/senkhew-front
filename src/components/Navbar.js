@@ -33,7 +33,7 @@ const Navbar = () => {
                         <>
                             <Link to="/" className="navbar-brand">
                                 <h1 className="text-primary fw-bold mb-0">
-                                    Sama <text className="text-dark">Bëss</text>
+                                    Sen <text className="text-dark">Khew</text>
                                 </h1>
                             </Link>
                             <button className="navbar-toggler py-2 px-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -63,7 +63,7 @@ const Navbar = () => {
                             
                             <Link to="/" className="navbar-brand">
                                 <h1 className="text-primary fw-bold mb-0">
-                                    Sama <text className="text-dark">Bëss</text>
+                                    Sen <text className="text-dark">Khew</text>
                                 </h1>
                             </Link>
                             <button className="navbar-toggler py-2 px-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">

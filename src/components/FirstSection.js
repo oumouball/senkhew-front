@@ -12,17 +12,17 @@ const HeroSection = () => {
             <div className="container">
                 <div className="row g-5 align-items-center">
                     <div className="col-lg-7 col-md-12">
-                        <small className="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-4 animated bounceInDown">Welcome to Sama Bëss 
+                        <small className="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-4 animated bounceInDown">Welcome to SenKhew
                         </small>
                         <h1 className="display-1 mb-4 animated bounceInDown">
                            
                         Dälal ak Jàmm ći  
-                        <text className="text-primary"> <br/>Sama </text> Bëss 
+                        <text className="text-primary"> <br/>Sen</text> Khew 
                         <p className='boul-lale'>
                             Vous avez un évènement à célébrer, vous voulez rendre agréable votre cérémonie. 
                             Donnez goût à votre cérémonie en bénéficiant des services de qualité, d'une équipe de professionnels. <br/>        
                             <i>
-                            <b>Bienvenue dans Sama Bëss, l'appli qui rassemble ! </b>
+                            <b>Bienvenue dans SenKhew, l'appli qui rassemble ! </b>
                             </i>
                         </p>
                         </h1> 

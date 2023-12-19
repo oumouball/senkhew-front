@@ -21,8 +21,8 @@ const Footer = () => {
                     <div className="row">
                         <div className="col-lg-3 col-md-6">
                             <div className="footer-item">
-                                <h1 className="text-primary">Sama <text className="text-dark">Bëss</text></h1>
-                                <p className="lh-lg mb-4"> <b>Sama Bëss</b> est la première plateforme de son genre dans l’événementiel qui a pour vocation de regrouper l’ensemble des types de prestation lié à l’organisation d’un événement au SÉNÉGAL …</p>
+                                <h1 className="text-primary">Sen <text className="text-dark">Khew</text></h1>
+                                <p className="lh-lg mb-4"> <b>Sen Khew</b> est la première plateforme de son genre dans l’événementiel qui a pour vocation de regrouper l’ensemble des types de prestation lié à l’organisation d’un événement au SÉNÉGAL …</p>
                                 <div className="footer-icon d-flex">
                                     <Link to="#" className="btn btn-primary btn-sm-square me-2 rounded-circle" href="">
                                         <FaFacebookF />

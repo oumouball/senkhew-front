@@ -15,7 +15,7 @@ const About = () => {
             <center>
             <br/><br/><br/>
                 <h1 className="text-primary fw-bold mb-0">
-                 Sama <text className="text-dark">Bëss</text>
+                 Sen <text className="text-dark">Khew</text>
             </h1>
            
             <br/>

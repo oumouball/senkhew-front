@@ -24,7 +24,7 @@ export default function App() {
         <div className="overlay-contain">
           <div className="overlay">
             <div className="overlay-panel overlay-left">
-              <h1> Dälal ak Jàmm ći Sama Bess</h1>
+              <h1> Dälal ak Jàmm ći SenKhew</h1>
               <p> Veuillez renseigner vos informations personnelles </p>
               <button
                 
